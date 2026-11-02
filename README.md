@@ -57,7 +57,7 @@ I'm an undergraduate student at the **University of Vocational Technology, Sri L
 - **Email:** [fathimarushdha26@gmail.com](mailto:fathimarushdha26@gmail.com)
 - **Portfolio:** [m-i-f-rushdha-portfolio.vercel.app](https://m-i-f-rushdha-portfolio.vercel.app)
 
-- 
+
 ## 🛠️ Languages & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -76,7 +76,7 @@ I'm an undergraduate student at the **University of Vocational Technology, Sri L
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FathimaRushdha26&layout=compact&theme=tokyonight)
 
-
 ---
 
 *Always learning, building, and improving.*
+
