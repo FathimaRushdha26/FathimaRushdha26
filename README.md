@@ -45,6 +45,9 @@ I'm an undergraduate student at the **University of Vocational Technology, Sri L
   <a href="https://www.credly.com/go/cgtXC8Bq">
     <img src="https://images.credly.com/size/220x220/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob" width="180" alt="AWS Academy Graduate - Cloud Architecting"/>
   </a>
+  </p>
+  <p align="center">
+
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/80ac9693-2377-4ce4-a6d5-04fad9e8d162/public_url">
     <img src="https://images.credly.com/size/220x220/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="180" alt="AWS Academy Graduate - Cloud Foundations"/>
