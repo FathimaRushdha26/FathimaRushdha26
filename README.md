@@ -70,12 +70,10 @@ I'm an undergraduate student at the **University of Vocational Technology, Sri L
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FathimaRushdha26&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FathimaRushdha26&layout=compact&theme=tokyonight)
-
+- Explore my repositories: [GitHub Repositories](https://github.com/FathimaRushdha26?tab=repositories)
+- View my contributions: [GitHub Contributions](https://github.com/FathimaRushdha26)
 ---
 
 *Always learning, building, and improving.*
