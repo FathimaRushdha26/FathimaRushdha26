@@ -40,10 +40,8 @@ I'm an undergraduate student at the **University of Vocational Technology, Sri L
 
 ## 🏆 Certifications
 
-### AWS Academy
-
 - [AWS Academy Graduate – Cloud Architecting](https://www.credly.com/go/cgtXC8Bq)
-- [AWS Academy Graduate – Cloud Foundations](https://www.credly.com/go/E7KPcxJ)
+- [AWS Academy Graduate – Cloud Foundations](https://www.credly.com/badges/80ac9693-2377-4ce4-a6d5-04fad9e8d162/public_url)
 
 
 
