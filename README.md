@@ -38,10 +38,24 @@ I'm an undergraduate student at the **University of Vocational Technology, Sri L
 | [Library Management System](https://github.com/FathimaRushdha26/library-management-system) | PHP, MySQL |
 | [Task Manager REST API](https://github.com/FathimaRushdha26/task-manager-rest-api) | Java, Spring Boot, MySQL |
 
-## 🏆 Certifications
 
-- [AWS Academy Graduate – Cloud Architecting](https://www.credly.com/go/cgtXC8Bq)
-- [AWS Academy Graduate – Cloud Foundations](https://www.credly.com/badges/80ac9693-2377-4ce4-a6d5-04fad9e8d162/public_url)
+## 🏆 AWS Academy Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/go/cgtXC8Bq">
+    <img src="https://images.credly.com/size/220x220/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob" width="180" alt="AWS Academy Graduate - Cloud Architecting"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/80ac9693-2377-4ce4-a6d5-04fad9e8d162/public_url">
+    <img src="https://images.credly.com/size/220x220/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="180" alt="AWS Academy Graduate - Cloud Foundations"/>
+  </a>
+</p>
+
+<p align="center">
+  **AWS Academy Graduate – Cloud Architecting**
+  &nbsp; | &nbsp;
+  **AWS Academy Graduate – Cloud Foundations**
+</p>
 
 
 
