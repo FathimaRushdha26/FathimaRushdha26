@@ -5,6 +5,7 @@
 I'm an undergraduate student at the **University of Vocational Technology, Sri Lanka**, passionate about software development, web technologies, and building practical applications.
 
 🌐 **Portfolio:** [Visit My Portfolio](https://m-i-f-rushdha-portfolio.vercel.app)
+
  **LinkedIn:**<a href="https://www.linkedin.com/in/mif-rushdha/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
@@ -73,9 +74,9 @@ I'm an undergraduate student at the **University of Vocational Technology, Sri L
 ## 📫 Connect With Me
 
 - **GitHub:** [FathimaRushdha26](https://github.com/FathimaRushdha26)
+- **LinkedIn:** [M.I.F. Rushdha](https://www.linkedin.com/in/mif-rushdha/)
 - **Email:** [fathimarushdha26@gmail.com](mailto:fathimarushdha26@gmail.com)
 - **Portfolio:** [m-i-f-rushdha-portfolio.vercel.app](https://m-i-f-rushdha-portfolio.vercel.app)
-
 
 ## 🛠️ Languages & Tools
 
