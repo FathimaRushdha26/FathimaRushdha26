@@ -6,7 +6,7 @@ I'm an undergraduate student at the **University of Vocational Technology, Sri L
 
 🌐 **Portfolio:** [Visit My Portfolio](https://m-i-f-rushdha-portfolio.vercel.app)
 
- **LinkedIn:**<a href="https://www.linkedin.com/in/mif-rushdha/">
+💼 **LinkedIn:** <a href="https://www.linkedin.com/in/mif-rushdha/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 ## 🎓 Education
